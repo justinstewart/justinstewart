@@ -1,6 +1,34 @@
-### Hey there 👋
-My name is Justin Stewart, and I'm a software developer focused on building distributed services and applications on AWS. I help developers and companies reliably scale their infrastructure and streamline their development processes by complementing the tools and services they love with the ones that fit them best on AWS.
+Hi 👋 My name is Justin Stewart
+===============================
 
-My primary work right now revolves around data/event-driven, serverless architectures. I'm active in all areas of the backend, from the edge all the way to the data lake, building continuously delivered and deployed pipelines that enable fast iteration, safe releases, observable application state, and the creation of actionable analytics through data ingests. This has given me real hands-on experience combining AWS services into architectures that are reliable, easy to change, and can scale.
+Software Engineer
+-----------------
 
-Personally, I'm married and live in Tulsa, OK with my wife and our two dogs. I'm a gamer (anything by Sid Meier, FromSoftware, or Klei), love dog training through positive reinforcement, and am a gardener that is trying not to let his plants die. I also occasionally motivate myself toward fitness.
+*   🌍  I'm based in Tulsa, OK
+*   ✉️  You can contact me at [justin.stewart.us@gmail.com](mailto:justin.stewart.us@gmail.com)
+*   🚀  I'm currently working on [Formsort](http://formsort.com)
+*   🧠  I'm learning AWS, Terraform, and more
+*   🤝  I'm open to collaborating on Projects### Skills 
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+</p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://www.github.com/justinstewart" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.linkedin.com/in/justinstewart1/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.twitter.com/jstewok" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/justinstewart"><img src="https://github-readme-stats.vercel.app/api?username=justinstewart&show_icons=true&hide=stars,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="justinstewart's GitHub stats" /></a>
