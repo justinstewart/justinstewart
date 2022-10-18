@@ -3,6 +3,7 @@ Hi 👋 My name is Justin Stewart
 
 Software Engineer
 -----------------
+Building distributed services and applications, primarily on AWS, with continuously delivered and deployed pipelines that enable fast iteration, safe releases, and observable application state with instrumentation. Improving, scaling, and architecting new and existing infrastructure from the edge all the way to the data lake, with some front-end work sprinkled in along the way.
 
 *   🌍  I'm based in Tulsa, OK
 *   ✉️  You can contact me at [justin.stewart.us@gmail.com](mailto:justin.stewart.us@gmail.com)
