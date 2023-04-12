@@ -7,7 +7,6 @@ Building distributed services and applications, primarily on AWS, with continuou
 
 *   🌍  I'm based in Tulsa, OK
 *   ✉️  You can contact me at [justin.stewart.us@gmail.com](mailto:justin.stewart.us@gmail.com)
-*   🚀  I'm currently working on [Formsort](http://formsort.com)
 *   🧠  I'm learning AWS, Terraform, and more
 *   🤝  I'm open to collaborating on Projects
 
