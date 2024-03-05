@@ -1,13 +1,12 @@
 Hi 👋 My name is Justin Stewart
 ===============================
 
-Software Engineer
------------------
-Building distributed services and applications, primarily on AWS, with continuously delivered and deployed pipelines that enable fast iteration, safe releases, and observable application state with instrumentation. Improving, scaling, and architecting new and existing infrastructure from the edge all the way to the data lake, with some front-end work sprinkled in along the way.
+I help teams build on AWS. I'm a certified AWS Solutions Architect Professional backed by a proven track record of more than a decade of software development experience.
+
+Tech stacks I work with typically include: Python, Javascript/Typescript, AWS, Heroku, AWS CDK, CloudFormation, SAM, AWS Lambda, ECS, EC2, Lake Formation, Kinesis Data Firehose, SQS, SNS, CodeDeploy, CodeBuild, CodePipeline, LakeFormation and more.
 
 *   🌍  I'm based in Tulsa, OK
-*   ✉️  You can contact me at [justin.stewart.us@gmail.com](mailto:justin.stewart.us@gmail.com)
-*   🧠  I'm learning AWS, Terraform, and more
+*   ✉️  You can contact me at [justin@justinstewart.dev](mailto:justin@justinstewart.dev)
 *   🤝  I'm open to collaborating on Projects
 
 ### Skills 
